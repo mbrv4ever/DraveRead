@@ -2,6 +2,12 @@
 
 Voorlezer (tekst-naar-spraak) met natuurlijke, neurale stemmen via Neuvoice. On-device: draait op je eigen pc, geen cloud.
 
+## ðŸŽ¬ Uitlegvideo
+
+[![Uitlegvideo DraveRead](https://dravenlock.nl/video/DraveRead.jpg)](https://dravenlock.nl/video/DraveRead.mp4)
+
+[â–¶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DraveRead.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Media en creatief · versie 0.2.3*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
